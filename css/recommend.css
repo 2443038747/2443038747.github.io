@@ -1,0 +1,9 @@
+.zhuyan ul li{float: left;
+              width: 166px;
+			  text-align: center;
+			  margin: 0 10px;
+			  border: 1px solid#EF6F56;
+			  background: #EF6F56;
+			  color: #FFFFFF;}
+.zhuyan ul li img{width: 166px;height: 166px;}
+.zhuyan ul li p{line-height: 36px;}

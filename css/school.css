@@ -1,0 +1,21 @@
+.xuexiao{background: #FFFFFF;
+         box-sizing: border-box;
+		 padding:0 20px 20px 20px;}
+.xuexiaotop h3{float: left;
+               color: #684e19;
+			   font-size: 25px;
+			   line-height: 50px;
+			   margin: 34px 20px;}
+.xuexiaotop{background: #e9e8e4;
+            padding: 5px 85px;}
+.xuexiaotop img{float: left;
+                width: 120px;
+				border-radius: 50%;}
+.xiaoyun{float: right;
+         padding-top: 8px;}
+.xiaoyun p{line-height: 36px;
+           color: #684e19;}
+.xuexiaocen p{line-height: 28px;
+              text-indent: 2em;
+			  padding: 10px 0;}
+.xuexiaocen img{width: 100%;}
